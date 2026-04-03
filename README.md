@@ -1,10 +1,10 @@
 # Shopwave Enterprise Application 🚀
 
-Welcome to the **Shopwave Enterprise Application**, a robust backend e-commerce infrastructure built using Spring Boot 3. This repository encompasses a comprehensive domain model, a highly efficient service layer, robust validation architectures, and a completely functioning REST API controller map.
+
 
 ## 👤 Author Information
 - **Name:** Antnhe Debebe
-- **Student ID:** [Insert Your Student ID Here]
+- **Student ID:** ATE/3036/14
 - **Course:** SE 4801 – Enterprise Application Development (Assignment 1)
 
 ---
