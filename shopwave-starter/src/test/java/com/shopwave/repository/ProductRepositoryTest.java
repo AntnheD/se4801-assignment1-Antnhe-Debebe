@@ -19,7 +19,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 import org.springframework.test.context.ContextConfiguration;
 @DataJpaTest
 @AutoConfigureTestDatabase(replace = AutoConfigureTestDatabase.Replace.NONE)
-@Testcontainers
+@Testcontainers(disabledWithoutDocker = true)
 public class ProductRepositoryTest {
 
     @Container
